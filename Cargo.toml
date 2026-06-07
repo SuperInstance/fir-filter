@@ -1,0 +1,11 @@
+[package]
+name = "fir-filter"
+version = "0.1.0"
+edition = "2021"
+description = "Finite impulse response filter design: windowed sinc, Hamming/Hann/Blackman windows, lowpass/highpass/bandpass"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/SuperInstance/fir-filter"
+keywords = ["fir", "filter", "signal-processing", "sinc", "dsp"]
+categories = ["science", "mathematics", "algorithms"]
+authors = ["SuperInstance"]
+readme = "README.md"
